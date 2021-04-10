@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinPlayground</string>
+    <string name="dependency_from_strings">Test String from Activity Module</string>
 </resources>
